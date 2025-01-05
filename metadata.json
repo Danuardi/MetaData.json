@@ -1,19 +1,11 @@
 {
-  "name": "Cosmic Dragon",
-  "description": "A mythical dragon soaring through galaxies and nebulae",
-  "image": "https://picsum.photos/400/400?random=101",
+  "name": "Test NFT",
+  "description": "This is a test NFT",
+  "image": "https://picsum.photos/400/400",
   "attributes": [
     {
-      "trait_type": "Rarity",
-      "value": "Legendary"
-    },
-    {
-      "trait_type": "Element",
-      "value": "Celestial"
-    },
-    {
-      "trait_type": "Power Level",
-      "value": 95
+      "trait_type": "Category",
+      "value": "Art"
     }
   ]
 }
