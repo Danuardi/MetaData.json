@@ -1,64 +1,19 @@
 {
-  "nfts": [
+  "name": "Cosmic Dragon",
+  "description": "A mythical dragon soaring through galaxies and nebulae",
+  "image": "https://picsum.photos/400/400?random=101",
+  "attributes": [
     {
-      "tokenId": "101",
-      "name": "Cosmic Dragon",
-      "description": "A mythical dragon soaring through galaxies and nebulae",
-      "image": "https://picsum.photos/400/400?random=101",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Legendary"
-        },
-        {
-          "trait_type": "Element",
-          "value": "Celestial"
-        },
-        {
-          "trait_type": "Power Level",
-          "value": 95
-        }
-      ]
+      "trait_type": "Rarity",
+      "value": "Legendary"
     },
     {
-      "tokenId": "102",
-      "name": "Ancient Samurai",
-      "description": "A noble warrior from feudal Japan in traditional armor",
-      "image": "https://picsum.photos/400/400?random=102",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Epic"
-        },
-        {
-          "trait_type": "Weapon",
-          "value": "Katana"
-        },
-        {
-          "trait_type": "Honor",
-          "value": 88
-        }
-      ]
+      "trait_type": "Element",
+      "value": "Celestial"
     },
     {
-      "tokenId": "103",
-      "name": "Digital Sorcerer",
-      "description": "A cyber-mage wielding both technology and arcane powers",
-      "image": "https://picsum.photos/400/400?random=103",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Rare"
-        },
-        {
-          "trait_type": "Magic Type",
-          "value": "Techno-Arcane"
-        },
-        {
-          "trait_type": "Mana",
-          "value": 75
-        }
-      ]
+      "trait_type": "Power Level",
+      "value": 95
     }
   ]
 }
